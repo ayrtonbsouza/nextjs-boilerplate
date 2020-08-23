@@ -18,7 +18,7 @@ export default function Home({ title = 'React avançado' }: Props) {
         </h1>
 
         <p className="description">
-          Get started by editing <code className="code">pages/index.js</code>
+          Get started by editing <code className="code">pages/index.js </code>
         </p>
 
         <div className="grid">
