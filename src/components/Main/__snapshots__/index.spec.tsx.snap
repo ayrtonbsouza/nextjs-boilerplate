@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Main Component should be able to render the main component 1`] = `
+<main>
+  <h1>
+    React
+  </h1>
+</main>
+`;
