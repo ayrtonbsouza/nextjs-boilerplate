@@ -2,13 +2,13 @@ import Head from 'next/head';
 
 type Props = {
   title: string;
-}
+};
 
 export default function Home({ title = 'React avançado' }: Props) {
   return (
     <div className="container">
       <Head>
-        <title>{ title }</title>
+        <title>{title}</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -18,8 +18,7 @@ export default function Home({ title = 'React avançado' }: Props) {
         </h1>
 
         <p className="description">
-          Get started by editing{' '}
-          <code className="code">pages/index.js</code>
+          Get started by editing <code className="code">pages/index.js</code>
         </p>
 
         <div className="grid">
