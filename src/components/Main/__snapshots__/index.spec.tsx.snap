@@ -1,27 +1,70 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Main Component should be able to render the main component 1`] = `
+.c0 {
+  background-color: #06092b;
+  color: #fff;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 3rem;
+}
+
+.c1 {
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: min(30rem,100%);
+}
+
 <main
-  class="styles__Wrapper-sc-1nn7afu-0 dEiupY"
+  class="c0"
 >
   <img
     alt="Imagem de um atómo e React Avançado escrito ao lado"
-    class="styles__Logo-sc-1nn7afu-1 fEmuLP"
+    class="c1"
     src="/img/logo.svg"
   />
   <h1
-    class="styles__Title-sc-1nn7afu-2 fijqOJ"
+    class="c2"
   >
     React Next.js Boilerplate
   </h1>
   <h2
-    class="styles__Description-sc-1nn7afu-3 kBjhwm"
+    class="c3"
   >
     TypeScript, ReactJS, NextJS and Styled Components boilerplate
   </h2>
   <img
     alt="Ilustração de um desenvolvedor frente a uma tela com código"
-    class="styles__Illustration-sc-1nn7afu-4 eovGMT"
+    class="c4"
     src="/img/hero-illustration.svg"
   />
 </main>
