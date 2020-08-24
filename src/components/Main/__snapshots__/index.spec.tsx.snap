@@ -1,9 +1,28 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`Main Component should be able to render the main component 1`] = `
-<main>
-  <h1>
-    React
+<main
+  class="styles__Wrapper-sc-1nn7afu-0 dEiupY"
+>
+  <img
+    alt="Imagem de um atómo e React Avançado escrito ao lado"
+    class="styles__Logo-sc-1nn7afu-1 fEmuLP"
+    src="/img/logo.svg"
+  />
+  <h1
+    class="styles__Title-sc-1nn7afu-2 fijqOJ"
+  >
+    React Next.js Boilerplate
   </h1>
+  <h2
+    class="styles__Description-sc-1nn7afu-3 kBjhwm"
+  >
+    TypeScript, ReactJS, NextJS and Styled Components boilerplate
+  </h2>
+  <img
+    alt="Ilustração de um desenvolvedor frente a uma tela com código"
+    class="styles__Illustration-sc-1nn7afu-4 eovGMT"
+    src="/img/hero-illustration.svg"
+  />
 </main>
 `;
