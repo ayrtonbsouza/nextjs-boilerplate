@@ -28,6 +28,7 @@
     ],
     "rules": {
       "prettier/prettier": "error",
+      "import/no-extraneous-dependencies": "off",
       "@typescript-eslint/explicit-function-return-type": "off",
       "react/jsx-one-expression-per-line": "off",
       "react/jsx-props-no-spreading": "off",
