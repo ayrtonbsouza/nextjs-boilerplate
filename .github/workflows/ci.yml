@@ -1,0 +1,26 @@
+name: ci
+on: [pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: checkout repository
+        uses: actions/checkout@v2
+      
+      - name: setup node
+        uses: actions/setup-node@v1
+        with:
+          node-version: 12.x
+      
+      - name: install dependencies
+        run: yarn install
+        
+      - name: linting
+        run: yarn lint
+        
+      - name: testing
+        run: yarn test
+
+      - name: building
+        run: yarn build
