@@ -2326,6 +2326,7 @@
     npmlog "^4.1.2"
     pretty-hrtime "^1.0.3"
 
+
 "@storybook/postinstall@6.0.26":
   version "6.0.26"
   resolved "https://registry.yarnpkg.com/@storybook/postinstall/-/postinstall-6.0.26.tgz#3ba9f6fa598d92daf5823361186c4b1369f16ebe"
@@ -2333,16 +2334,16 @@
   dependencies:
     core-js "^3.0.1"
 
-"@storybook/react@^6.0.22":
-  version "6.0.22"
-  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.0.22.tgz#64ff401194d7be62d238f766b47e85d7f170e4d1"
-  integrity sha512-sErMo8+KxuELTbx4VboAYEsgDEXXio1Tqmp1jfLoUhXIvQtcfbT9DrtwOoR4mixf7LwISuLikorTyOL+Z6Vg3g==
+"@storybook/react@^6.0.26":
+  version "6.0.26"
+  resolved "https://registry.yarnpkg.com/@storybook/react/-/react-6.0.26.tgz#5d4b8f2c6d8003912d371298a6e5a945e24680b4"
+  integrity sha512-X02VpIEhpVc4avYiff861c015++tvMVSXJSrDP5J1xTAglVEiRFcU0Kn5h96o9N8FTup2n2xyj6Y7e8oC9yLXQ==
   dependencies:
     "@babel/preset-flow" "^7.0.0"
     "@babel/preset-react" "^7.0.0"
-    "@storybook/addons" "6.0.22"
-    "@storybook/core" "6.0.22"
-    "@storybook/node-logger" "6.0.22"
+    "@storybook/addons" "6.0.26"
+    "@storybook/core" "6.0.26"
+    "@storybook/node-logger" "6.0.26"
     "@storybook/semver" "^7.3.2"
     "@svgr/webpack" "^5.4.0"
     "@types/webpack-env" "^1.15.2"
@@ -9968,10 +9969,10 @@ neo-async@^2.5.0, neo-async@^2.6.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.2.tgz#b4aafb93e3aeb2d8174ca53cf163ab7d7308305f"
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
-next-pwa@^3.1.4:
-  version "3.1.4"
-  resolved "https://registry.yarnpkg.com/next-pwa/-/next-pwa-3.1.4.tgz#1388eae82fb59d4756edeb93d1433790d420d953"
-  integrity sha512-Osk5jruwvrCeQh2Uk0I5vBOYzdaRgoh1r6STmaamk6xIa/2+PZFnrshEZPKQ8Qor2ALKTQoRFSt3kaqn6RHCZg==
+next-pwa@^3.1.5:
+  version "3.1.5"
+  resolved "https://registry.yarnpkg.com/next-pwa/-/next-pwa-3.1.5.tgz#336de6998b7678614f0a129b18467785e4e57b40"
+  integrity sha512-FInX1Xj9BCYvzwrzH0JupoHCpXKN1lVFospp7uYcL1eO3gOICtrNruYq988JIPG9vaW5iQpmcUkwbjIittyIlQ==
   dependencies:
     clean-webpack-plugin "^3.0.0"
     globby "^11.0.1"
