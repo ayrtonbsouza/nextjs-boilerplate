@@ -28,7 +28,7 @@
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.3",
     "next": "10.0.7",
-    "next-pwa": "^5.0.4",
+    "next-pwa": "^5.0.5",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "styled-components": "^5.2.1"
