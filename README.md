@@ -1,30 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+![readme-headers_Personal-React](https://user-images.githubusercontent.com/30063455/110695632-e3c96100-81c8-11eb-9524-97722d37eefd.png)
 
-First, run the development server:
+# NextJS Boilerplate
+This is a typescript next.js application boilerplate. It's being developed using Typescript, React and Next.js. This application was developed during Willian Justen's Advanced React Course as a test of concepts applied to a real landing page application.
 
-```bash
-npm run dev
-# or
-yarn dev
+## About this code
+
+
+### Tech Stack
+
+O projeto foi feito com as seguintes tecnologias:
+
+- [React](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+
+## Starting Application
+
+```sh
+# First you need to install dependencies
+$ yarn
+# Then you can start the application in development mode
+$ yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Made with ❤️ by **Ayrton Souza** :wave: [Get in touch!](https://ayrtonsouza.com/)
