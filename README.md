@@ -9,7 +9,7 @@ This is a typescript next.js application boilerplate. It's being developed using
 
 ### Tech Stack
 
-O projeto foi feito com as seguintes tecnologias:
+This project was developed using the following technologies:
 
 - [React](https://reactjs.org/)
 - [NextJS](https://nextjs.org/)
