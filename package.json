@@ -40,7 +40,7 @@
     "@storybook/addon-essentials": "^6.2.7",
     "@types/jest": "^26.0.21",
     "@types/react": "^17.0.22",
-    "@types/node": "^16.9.2",
+    "@types/node": "^16.10.1",
     "@types/styled-components": "^5.1.12",
     "@typescript-eslint/eslint-plugin": "^4.29.2",
     "@typescript-eslint/parser": "^4.31.1",
@@ -60,7 +60,7 @@
     "jest-styled-components": "^7.0.5",
     "lint-staged": "^11.1.2",
     "plop": "^2.7.4",
-    "prettier": "^2.4.0",
+    "prettier": "^2.4.1",
     "react-is": "^17.0.2",
     "typescript": "4.4.3"
   }
