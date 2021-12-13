@@ -5350,6 +5350,20 @@ cli-table3@0.6.0:
   optionalDependencies:
     colors "^1.1.2"
 
+cli-testing-library@^1.0.0-alpha.10:
+  version "1.0.0-alpha.12"
+  resolved "https://registry.yarnpkg.com/cli-testing-library/-/cli-testing-library-1.0.0-alpha.12.tgz#27ab3126bed67b379b603a9d6d7b25bb0e69f946"
+  integrity sha512-ZSR9IrTt7Yts2au/2wDzoqiwjfGpnhO3YTOg83NX0PY9kJdjb7eGiXSlLZoYjg+N4Czk82UXzPAadFtqpSHsew==
+  dependencies:
+    "@babel/code-frame" "^7.10.4"
+    "@babel/runtime" "^7.12.5"
+    chalk "^4.1.0"
+    lz-string "^1.4.4"
+    pretty-format "^27.0.2"
+    strip-ansi "^6.0.1"
+    strip-final-newline "^2.0.0"
+    tree-kill "^1.2.2"
+
 cli-truncate@2.1.0, cli-truncate@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/cli-truncate/-/cli-truncate-2.1.0.tgz#c39e28bf05edcde5be3b98992a22deed5a2b93c7"
@@ -11045,13 +11059,14 @@ please-upgrade-node@^3.2.0:
   dependencies:
     semver-compare "^1.0.0"
 
-plop@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/plop/-/plop-3.0.0.tgz#12deb73212676ed0e374f969a6d166f9cea54344"
-  integrity sha512-097IZ+4NFkVQs4MWNqG2/PKw+q7LwBfBePD6yEFKJ/uAmYHf4t9MT3prgO89L9VGrN/tL9PQfBy/AJEuSAKdKg==
+plop@^3.0.4:
+  version "3.0.4"
+  resolved "https://registry.yarnpkg.com/plop/-/plop-3.0.4.tgz#625802a210678c721364840a63187be529399cd7"
+  integrity sha512-Qc7Mrj1uuMu6B8Qmj/2KyR2sjxRDZnbAcPf/udg5/24dYWL4lMBgUKGLs7wmatQ5AqKCMiZVbAlnEXHO2cil3Q==
   dependencies:
     "@types/liftoff" "^4.0.0"
     chalk "^5.0.0"
+    cli-testing-library "^1.0.0-alpha.10"
     interpret "^2.2.0"
     liftoff "^4.0.0"
     minimist "^1.2.5"
@@ -13252,6 +13267,11 @@ tr46@^2.0.2:
   integrity sha512-3n1qG+/5kg+jrbTzwAykB5yRYtQCTqOGKq5U5PE3b0a1/mzo6snDhjGS0zJVJunO0NrT3Dg1MLy5TjWP/UJppg==
   dependencies:
     punycode "^2.1.1"
+
+tree-kill@^1.2.2:
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/tree-kill/-/tree-kill-1.2.2.tgz#4ca09a9092c88b73a7cdc5e8a01b507b0790a0cc"
+  integrity sha512-L0Orpi8qGpRG//Nd+H90vFB+3iHnue1zSSGmNOOCh1GLJ7rUKVwV2HvijphGQS2UmhUZewS9VgvxYIdgr+fG1A==
 
 trim-trailing-lines@^1.0.0:
   version "1.1.4"
