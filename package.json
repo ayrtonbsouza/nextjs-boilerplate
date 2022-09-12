@@ -27,7 +27,7 @@
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.5",
-    "next": "12.2.4",
+    "next": "12.3.0",
     "next-pwa": "^5.5.4",
     "react": "17.0.2",
     "react-dom": "17.0.2",
@@ -40,7 +40,7 @@
     "@storybook/addon-essentials": "^6.5.6",
     "@types/jest": "^28.1.4",
     "@types/react": "^18.0.6",
-    "@types/node": "^17.0.25",
+    "@types/node": "^18.7.16",
     "@types/styled-components": "^5.1.26",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^4.33.0",
